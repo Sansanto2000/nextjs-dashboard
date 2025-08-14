@@ -5,13 +5,18 @@ Aplicacion modelo para el aprendizaje de _NextJs_ basado en [tutorial oficial](h
 # Instalar
 
 ```
-cd .\nextjs-dashboard\
-pnpm i
+pnpm install
 ```
 
-# Ejecutar
+# Desarrollo
 
 ```
-cd .\nextjs-dashboard\
 pnpm dev
+```
+
+# Producción
+
+```
+pnpm build
+pnpm run
 ```
